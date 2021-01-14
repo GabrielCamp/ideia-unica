@@ -1,9 +1,7 @@
 function Home() {
-    return (
-        <div>
-            <h1>GABRIEL CAMPOS DA SILVA</h1>
-        </div>
-    )
+    return <h1>EU TE AMO</h1>,
+    <p>Stéfany Gomes Sena</p>,
+    <small>Gabriel Campos da Silva</small>
 }
 
 export default Home
