@@ -3,7 +3,7 @@ function Home() {
     <div>
         <h1>Meu Irmãozinho mais querido!</h1>   
         <p>DAVID CAMPOS DA SILVA</p>
-        <img src="david.JPG">David Campos da Silva</img>
+        <small>Gabriel Campos da Silva</small>
     </div>
     )        
 }
